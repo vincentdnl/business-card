@@ -1,0 +1,26 @@
+{
+  "name": "vincentdnl",
+  "version": "1.0.0",
+  "description": "Vincent Déniel (@vincentdnl)'s business card",
+  "main": "index.js",
+  "bin": {
+    "vincentdnl": "node card.js"
+  },
+  "scripts": {
+    "test": "node card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentdnl/business-card.git"
+  },
+  "author": "Vincent Déniel (@vincentdnl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentdnl/business-card/issues"
+  },
+  "homepage": "https://github.com/vincentdnl/business-card#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^3.0.0"
+  }
+}
