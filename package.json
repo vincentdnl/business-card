@@ -4,7 +4,7 @@
   "description": "Vincent Déniel (@vincentdnl)'s business card",
   "main": "index.js",
   "bin": {
-    "vincentdnl": "node card.js"
+    "vincentdnl": "./card.js"
   },
   "scripts": {
     "test": "node card.js"
