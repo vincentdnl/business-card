@@ -1,6 +1,6 @@
 {
   "name": "vincentdnl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Vincent Déniel (@vincentdnl)'s business card",
   "main": "index.js",
   "bin": {
@@ -19,8 +19,8 @@
     "url": "https://github.com/vincentdnl/business-card/issues"
   },
   "homepage": "https://github.com/vincentdnl/business-card#readme",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^3.0.0"
-  }
+  },
+  "devDependencies": {}
 }
